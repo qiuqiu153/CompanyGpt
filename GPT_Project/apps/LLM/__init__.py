@@ -1,6 +1,6 @@
 
 import openai
-openai.api_key = "sess-co9wuf6HfOTHzpckpFoW6tzT0kwmlzC4ikkKB50r"
+openai.api_key = "your_api_key"
 proxy = {
 'http': 'http://localhost:59527',
 'https': 'http://localhost:59527'
